@@ -87,7 +87,7 @@
 
 a {
 	color: var(--accent);
-	text-shadow: 0 0 12px
+	
 }
 
 #bd-settings-sidebar .ui-tab-bar-item,
@@ -436,7 +436,6 @@ a:hover .foreground-26ym5y {
 .username-_4ZSMR {
 	border-left: 3px solid currentColor;
 	padding-left: 7px;
-	text-shadow: 0 0 12px currentColor;
 	box-shadow: inset 10px 0 15px -12px currentColor
 }
 
@@ -540,7 +539,6 @@ a:hover .foreground-26ym5y {
 	color: #fff;
 	font-weight: 500;
 	border-radius: 0;
-	text-shadow: 0 0 12px;
 	background: rgba(255, 255, 255, .1);
 	box-shadow: 0 0 2px 2px rgba(255, 255, 255, .1);
 	border: none;
@@ -555,13 +553,11 @@ a:hover .foreground-26ym5y {
 	color: #fff;
 	font-weight: 500;
 	border-radius: 0;
-	text-shadow: 0 0 12px;
 	box-shadow: 0 0 2px 2px rgba(255, 255, 255, .07)
 }
 
 .base-34jWEe h1 {
 	color: #fff;
-	text-shadow: 0 0 12px;
 	font-weight: 300;
 	text-transform: none;
 	text-overflow:ellipsis !important;
@@ -750,7 +746,7 @@ a:hover .foreground-26ym5y {
 }
 
 .channel-2QD9_O a {
-	text-shadow: none
+		text-shadow: none
 }
 
 .privateChannels-1nO12o {
@@ -809,7 +805,6 @@ a:hover .foreground-26ym5y {
 	padding-bottom: 10px;
 	box-shadow: 0 0 12px 1px var(--accent);
 	border-left: 2px solid rgba(255, 255, 255, .8);
-	text-shadow: 0 0 12px
 }
 
 .channel-2QD9_O {
@@ -1338,7 +1333,6 @@ a:hover .foreground-26ym5y {
 	background-color: rgba(255, 255, 255, .06);
 	border-radius: 0;
 	box-shadow: 0 0 12px rgba(255, 255, 255, .1);
-	text-shadow: 0 0 12px
 }
 
 .status-2L8Zc7 {
@@ -1481,7 +1475,6 @@ a:hover .foreground-26ym5y {
 
 .errorPage-u8SYh4 .text-NLHgOm h4:after {
 	color: #f04747;
-	text-shadow: 0 0 12px;
 	content: 'Discord ran into a problem.';
 	text-transform: none;
 	font-size: 24px
@@ -1818,7 +1811,7 @@ polyline[stroke*="#7289da"] {
 }
 
 .faded-3bns_w {
-	text-shadow: 0 0 12px
+
 }
 
 .lookFilled-1Gx00P.colorBrand-3pXr91:disabled {
@@ -1827,7 +1820,7 @@ polyline[stroke*="#7289da"] {
 
 #app-mount .anchor-3Z-8Bb:not(.guildsError-b7zR5H) {
 	color: var(--accent);
-	text-shadow: 0 0 12px
+
 }
 
 #app-mount .headerSpotify-zpWxgT .anchor-3Z-8Bb {
@@ -2588,7 +2581,7 @@ body .bd-toasts {
 .item-1Yvehc.brand-3igrJY,
 .item-1Yvehc.brand-3igrJY:hover {
 	color: var(--accent)!important;
-	text-shadow: 0 0 12px
+
 }
 
 .checkboxElement-1qV33p:checked+span {
@@ -3574,12 +3567,12 @@ img[src*="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
 .regionSelect-3lf4eE .regionSelectInner-24f4Ce .regionSelectName-2-2FWh {
 	color: #fff!important;
 	font-weight: 500;
-	text-shadow: 0 0 12px
+
 }
 
 .regionSelectModalHeader-21khC1 {
 	font-weight: 600!important;
-	text-shadow: 0 0 12px
+
 }
 
 .regionSelect-3lf4eE button {
@@ -3661,7 +3654,7 @@ img[src*="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
 }
 
 .title-2CFvp_ {
-	text-shadow: 0 0 12px;
+
 	text-transform: none;
 	font-weight: 500
 }
@@ -3836,7 +3829,7 @@ img[src*="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
 }
 
 .modalTitle-37O4n6 .content-2Add9f {
-	text-shadow: 0 0 12px
+
 }
 
 .root-SR8cQa .header-QKLPzZ .lookFilled-1Gx00P,
@@ -3939,7 +3932,7 @@ img[src*="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
 }
 
 .uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .description-2ug5H_ .filename-ovv3c5 {
-	text-shadow: 0 0 12px;
+
 	padding-left: 20px
 }
 
@@ -4043,7 +4036,7 @@ img[src*="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
 }
 
 .lightTheme-3LGLQs.container-2XeR5Z input::placeholder {
-	text-shadow: 0 0 12px;
+
 	color: #fff;
 	opacity: .4
 }
@@ -4475,7 +4468,7 @@ img[src*="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
 
 .wordmark-2iDDfm:after {
 	content: var(--theme-version);
-	text-shadow: 0 0 12px;
+
 	font-weight: 400;
 	color: rgba(255, 255, 255, .8);
 	margin-left: 5px;
@@ -4484,7 +4477,7 @@ img[src*="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
 
 .wordmark-2iDDfm:before {
 	content: var(--theme-long-name) ' ';
-	text-shadow: 0 0 12px;
+
 	font-weight: 600;
 	color: var(--accent);
 	font-size: 16px
@@ -4622,7 +4615,7 @@ img[src*="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
 .macButtons-2MuSAC::before {
 	content: var(--theme-long-name);
 	left: calc(50% - 31px);
-	text-shadow: 0 0 12px;
+
 	font-weight: 600;
 	color: var(--accent);
 	font-size: 16px
@@ -4631,7 +4624,7 @@ img[src*="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
 .macButtons-2MuSAC::after {
 	content: var(--theme-version);
 	left: calc(50% + 31px);
-	text-shadow: 0 0 12px;
+
 	font-weight: 400;
 	color: rgba(255, 255, 255, .8);
 	font-size: 16px
@@ -4942,12 +4935,12 @@ img[src*="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
 
 .ace_gutter-cell.ace_warning {
 	color: #ff0;
-	text-shadow: 0 0 12px
+
 }
 
 .ace_gutter-cell.ace_error {
 	color: #f04747;
-	text-shadow: 0 0 12px
+
 }
 
 .ace-monokai .ace_cursor {
@@ -5560,7 +5553,7 @@ body #ace_settingsmenu {
 
 li[data-name*=Midnight] .bda-name {
 	color: var(--accent);
-	text-shadow: 0 0 12px
+
 }
 
 li[data-name*=Midnight] {
@@ -6505,7 +6498,7 @@ li[data-name*=Midnight]:hover .scroller-wrap::after {
 
 .metadata-3WGS0M {
 	color: #fff;
-	text-shadow: 0 0 12px;
+
 	margin-top: 5px
 }
 
@@ -7087,7 +7080,7 @@ li[data-name*=Midnight]:hover .scroller-wrap::after {
 .guildIconUnavailable-5PMHDN {
 	border-radius: 0;
 	box-shadow: 0 0 12px #f04747;
-	text-shadow: 0 0 12px
+
 }
 
 .unreadBottom-3hWQ7c {
@@ -7226,7 +7219,7 @@ li[data-name*=Midnight]:hover .scroller-wrap::after {
 	cursor: pointer;
 	box-shadow: 0 0 12px 1px var(--accent);
 	border-left: 2px solid rgba(255, 255, 255, .8);
-	text-shadow: 0 0 12px;
+
 	height: 58px
 }
 
